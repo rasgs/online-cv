@@ -8,19 +8,19 @@
     }
 
     img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+        // filter: grayscale(1);
+        // -webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
-       float: right;
+       float: left;
         color: black !important;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
    }
     .sidebar-wrapper {
         position: static;
-        float: right;
+        float: left;
         width: 40%;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
     }
 
     .remove-container.container-block {
@@ -33,7 +33,7 @@
 
     .skillset .level-bar-inner {
        background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+       -webkit-print-color-adjust: exact;
     }
 
 }
