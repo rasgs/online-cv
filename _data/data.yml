@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ramus.gs@gmail.com
-    phone: +45 20 93 14 67
+    phone: # +45 20 93 14 67
     website: rasmusgs.com #do not add http://
     linkedin: rasmusgs
     github: rasgs
@@ -35,24 +35,29 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Cooking & baking
         link:
 
-      - item: Snowboarding
+      - item: Street workout
         link:
 
-      - item: Cooking
+      - item: Photography
+        link:
+
+      - item: Travel
+        link:
+
+      - item: Scientific communication
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an electronics engineer who graduated from Aalborg University in 2018 with a master's degree in signal processing. In addition to signal procesing, I have experience in the fields of data science, software development and public outreach.
+
+      I am curious by nature and a quick learner with a huge thirst for knowledge, meaning I have always been interested in understanding the world around me and questioned why things are the way they are.
+
+      Having a passion for problem-solving, I love using my palette of skills to think outside the box and come up with alternative ways to improve the way things work or are done.
 education:
     - degree: MSc in Engineering, Signal Processing and Computing (SPC)
       university: Aalborg University, Denmark
@@ -76,117 +81,100 @@ education:
           - Bachelor Thesis: Communication Link for a Cubesat - an SDR Approach
           - Weighted Average Mark: 11.2
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Signal Processing Research Engineer
+      time: 2018 - Present
+      company: Viewcare A/S, Søborg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Research and development of algorithms for estimating fetal heart rate and ECG signal quality using both digital and statistical signal processing methods as well as machine learning.
+
+        Lead firmware developer of a wireless embedded device, i.e. developing overall software architecture and implementing  operating system, periphial drivers, data transmission over Wi-Fi, OTA updates and more.
+
+        Lead developer of end-user PC acquisition software made using C# (WPF) for handling data streaming over Wi-Fi.
+
+    - role: Core Member of AAU Student Space (Volunteer)
+      time: 2013 - Present
+      company: AAU Student Space, Aalborg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Gained experience with space engineering, cubesat manufacturing and outreach by building, testing, integrating, documenting and operating the AAUSAT4 and AAUSAT5 satellites, in close collaboration with the European Space Agency (ESA). Currently developing a high-speed software defined radio (SDR).
+    - role: Software Developer
+      time: 2015 - 2018
+      company: Viewcare A/S, Søborg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Implementing over-the-air update features, TCP communication and data acquisition of audio- and ECG signals on embedded ARM MCU.
+        Developing C# interface for wireless data transmission.
+    - role: Student Ambassador
+      time: 2015 - 2018
+      company: Aalborg University, Aalborg
+      details: |
+        Outreach and promotion regarding the opportunities of studying electronics at Aalborg university (AAU), including interviews for Danish media, workshops at Danish high schools and lab-tours at AAU.
+    - role: Library Page
+      time: 2009 - 2014
+      company: Aalborg Bibliotekerne, Vodskov
+      details: |
+        Responsible for shelving and organizing books and other materials and finding reserved materials.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: The DSP Cookbook
+        link: "http://dspcookbook.github.io/"
+        tagline: "A website with tutorials and how-to guides on digital signal processing algorithms for engineers."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Software Defined Radio for a Cubesat
+        link: "https://github.com/aausat"
+        tagline: "Designing a high-speed CCSDS-compliant software defined radio (SDR) for use in a cubesat as part of AAU Student Space."
 
 publications:
     title: Publications
-    intro: >
-      My publications
+    intro: |
 
     papers:
-      # - title: "Comparison of Cardiotocography and Fetal Heart Rate Estimators Based on Non- invasive Fetal ECG"
-      #   link: "http://www.cinc.org/2019/Program/accepted/249_CinCFinalPDF.pdf"
-      #   authors: R. Sæderup, H. Zimmermann, D. H. Eiríksdóttir, J. Hansen, J. Struijk and S. Schmidt
-      #   conference: "Computing In Cardiology, 2019"
+      - title: "Comparison of Cardiotocography and Fetal Heart Rate Estimators Based on Noninvasive Fetal ECG"
+        link: "http://www.cinc.org/2019/Program/accepted/249_CinCFinalPDF.pdf"
+        authors: R. Saederup, H. Zimmermann, D. H. Eiríksdóttir, J. Hansen, J. Struijk and S. Schmidt
+        conference: "Computing In Cardiology, 2019"
 
-       # - title: "Quality Assessment of Maternal and Fetal Cardiovascular Sounds Recorded from the Skin near the Uterine Arteries during Pregnancy"
-       #  link: " http://www.cinc.org/2019/Program/accepted/93_CinCFinalPDF.pdf"
-       #  authors: D. H. Eirıksdóttir, R. Sæderup, D. Riknagel, H. Zimmermann, M. Plocharski, J. Hansen, J Struijk and S. Schmidt
-       #  conference: "Computing In Cardiology, 2019"
+      - title: "Quality Assessment of Maternal and Fetal Cardiovascular Sounds Recorded from the Skin near the Uterine Arteries during Pregnancy"
+        link: "http://www.cinc.org/2019/Program/accepted/93_CinCFinalPDF.pdf"
+        authors: D. H. Eirıksdóttir, R. Sæderup, D. Riknagel, H. Zimmermann, M. Plocharski, J. Hansen, J Struijk and S. Schmidt
+        conference: "Computing In Cardiology, 2019"
 
-     #  - title: "Estimation of the Second Heart Sound Split Using Windowed Sinusoidal Models"
-     #    link: "http://doi.org/10.1016/j.bspc.2018.04.006"
-     #    authors: R. Sæderup, P. Hoang, S. Winther, M. Bøttcher, J. Struijk, S. Schmidt and J. Østergaard
-     #    conference: "Biomedical Signal Processing and Control"
-     #
-     # - title: "AAUSAT5 - an evaluation of a student-run cubesat project"
-     #   link: "#"
-     #   authors: R. Sæderup and J. Haurum
-     #   conference: "1st Symposium on Space Educational Activities"
+      - title: "Estimation of the Second Heart Sound Split Using Windowed Sinusoidal Models"
+        link: "http://doi.org/10.1016/j.bspc.2018.04.006"
+        authors: R. Sæderup, P. Hoang, S. Winther, M. Bøttcher, J. Struijk, S. Schmidt and J. Østergaard
+        conference: "Biomedical Signal Processing and Control, 2018"
+
+      - title: "AAUSAT5 - an evaluation of a student-run cubesat project"
+        link: "#"
+        authors: R. Saederup and J. Haurum
+        conference: "1st Symposium on Space Educational Activities, 2015"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Matlab
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C
+        level: 95%
+
+      - name: Latex & Markdown
+        level: 90%
+
+      - name: Git
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C# (Visual Studio)
+        level: 75%
+
+      - name: Python
+        level: 75%
+
+      - name: Adobe Photoshop, Illustrator
+        level: 70%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
