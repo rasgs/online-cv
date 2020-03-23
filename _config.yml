@@ -6,11 +6,15 @@ url: 'https://rasmusgs.com'
 baseurl: '/cv' #change it according to your repository name
 description: Rasmus Gundorff Sæderup's resume.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: turquoise # blue turquoise green berry orange ceramic
-chrome_mobile_color: "#4CAC9D" #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+theme_skin: myblue # blue turquoise green berry orange ceramic
+chrome_mobile_color: "#3873B3" #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-# analytics: UA-83979019-1
+analytics:
+    google:
+        tracking_id: UA-156018377-2
+        anonymize_ip: true
+
 
 # Sass/SCSS
 sass:
