@@ -165,11 +165,11 @@ skills:
 
       - name: Git
         level: 85%
-
-      - name: C# (Visual Studio)
+        
+      - name: Python
         level: 75%
 
-      - name: Python
+      - name: C# (Visual Studio)
         level: 75%
 
       - name: Adobe Photoshop, Illustrator
