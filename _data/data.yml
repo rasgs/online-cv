@@ -85,11 +85,11 @@ experiences:
       time: 2018 - Present
       company: Viewcare A/S, Søborg
       details: |
-        Research and development of algorithms for estimating fetal heart rate and ECG signal quality using both digital and statistical signal processing methods as well as machine learning.
+        Research and development of algorithms for biomedical applications using both digital and statistical signal processing methods as well as machine learning.
 
-        Lead firmware developer of a wireless embedded device, i.e. developing overall software architecture and implementing  operating system, periphial drivers, data transmission over Wi-Fi, OTA updates and more.
+        Lead embedded device firmware developer: Developing overall software architecture and implementing operating system, periphial drivers, data transmissions, OTA updates and more.
 
-        Lead developer of end-user PC acquisition software made using C# (WPF) for handling data streaming over Wi-Fi.
+        Lead developer of end-user PC acquisition software made using C# (WPF) for handling wireless data streaming.
 
     - role: Core Member of AAU Student Space (Volunteer)
       time: 2013 - Present
@@ -165,7 +165,7 @@ skills:
 
       - name: Git
         level: 85%
-        
+
       - name: Python
         level: 75%
 
