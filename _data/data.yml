@@ -13,8 +13,8 @@ sidebar:
     avatar: rgs.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ramus.gs@gmail.com
-    phone: # +45 20 93 14 67
+    email: rasmus.gs@gmail.com
+    phone: #
     website: rasmusgs.com #do not add http://
     linkedin: rasmusgs
     github: rasgs
@@ -127,24 +127,9 @@ projects:
         link: "https://github.com/aausat"
         tagline: "Designing a high-speed CCSDS-compliant software defined radio (SDR) for use in a cubesat as part of AAU Student Space."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Petrol - A minimalist Jekyll theme
+        link: "https://github.com/rasgs/petrol-jekyll-theme"
+        tagline: "Customized Jekyll theme using HTML and SASS"
 
 publications:
     title: Publications
