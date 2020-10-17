@@ -84,11 +84,11 @@ education:
           - Weighted Average Mark: 11.2
 
 experiences:
-  - role: Engineering Fellow
-    time: 2020 - Present
-    company: CERN, Geneva
-    details: |
-      Engineering fellow in the TE-MPE-EE section (technology department, machine protection and electrical integrity group, electrical engineering section) where I am working on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
+    - role: Engineering Fellow
+      time: 2020 - Present
+      company: CERN, Geneva
+      details: |
+        Engineering fellow in the TE-MPE-EE section (technology department, machine protection and electrical integrity group, electrical engineering section) where I am working on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
 
     - role: Signal Processing Research Engineer
       time: 2018 - 2020
