@@ -34,11 +34,14 @@ sidebar:
       - idiom: German
         level: Elementary
 
+      - idiom: French
+        level: Elementary
+
     interests:
       - item: Cooking & baking
         link:
 
-      - item: Street workout
+      - item: Calisthenics
         link:
 
       - item: Photography
@@ -140,6 +143,10 @@ projects:
         link: "https://courses.edx.org/certificates/14677eeb48d54a59b2bf9d85781d093f"
         tagline: Completed online course in quantum machine learning from edX.
 
+      - title: Data Visualization Nanodegree
+        link: "https://graduation.udacity.com/confirm/SGNT2AYN"
+        tagline: Completed online course in data visualization from Udacity.
+
 publications:
     title: Publications
     intro: |
@@ -182,7 +189,7 @@ skills:
         level: 85%
 
       - name: Python
-        level: 75%
+        level: 80%
 
       - name: C# (Visual Studio)
         level: 75%
