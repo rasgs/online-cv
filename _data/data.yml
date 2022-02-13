@@ -30,27 +30,30 @@ sidebar:
 
       - idiom: English
         level: Full professional proficiency
-
+        
+      - idiom: French
+        level: Elementary
+        
       - idiom: German
         level: Elementary
 
-      - idiom: French
-        level: Elementary
-
     interests:
+      - item: Scientific communication
+        link:
+        
       - item: Cooking & baking
-        link:
-
-      - item: Calisthenics
-        link:
-
-      - item: Photography
         link:
 
       - item: Travel
         link:
+        
+      - item: Running, climbing & calisthenics
+        link:
 
-      - item: Scientific communication
+      - item: Photography & graphics design
+        link:
+
+      - item: Space engineering & satellites
         link:
 
 career-profile:
@@ -58,9 +61,9 @@ career-profile:
     summary: |
       I am an electronics engineer who graduated from Aalborg University in 2018 with a master's degree in signal processing. In addition to signal procesing, I have experience in the fields of data science, software development and public outreach.
 
-      I am curious by nature and a quick learner with a huge thirst for knowledge, meaning I have always been interested in understanding the world around me and questioned why things are the way they are.
+      As a multipotentialite, I am curious by nature and a quick learner with a huge thirst for knowledge, meaning I have always been interested in understanding the world around me and questioned why things are the way they are.
 
-      Having a passion for problem-solving, I love using my palette of skills to think outside the box and come up with alternative ways to improve the way things work or are done.
+      I have a passion for problem-solving, so I love using my palette of skills to think outside the box and come up with alternative ways to improve the way things work or are done.
 education:
     - degree: MSc in Engineering, Signal Processing and Computing (SPC)
       university: Aalborg University, Denmark
@@ -86,10 +89,13 @@ education:
 
 experiences:
     - role: Engineering Fellow
-      time: 2020 - Present
+      time: 2020 - 2021
       company: CERN, Geneva
       details: |
-        Engineering fellow in the TE-MPE-EE section (technology department, machine protection and electrical integrity group, electrical engineering section) where I am working on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
+        Engineering fellow in the TE-MPE-EE section (machine protection and electrical integrity group, electrical engineering section) where I worked on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
+        I performed data analysis of frequency response measurements of the main dipole magnets of the LHC, and discovered a method for identifying potential outliers caused by e.g. interturn shorts. This aids in the hardware commissioning, thus reducing down-time of the LHC.
+        In addition, I developed a Python algorithm for doing parameter estimation of superconducting magnets using PSpice circuit models. The algorithm fetches measurements from the ELQA database and iteratively fits circuit parameters by running Pspice. 
+        This aids in doing model verification of LHC superconducting magnet models, thus giving a greater understanding of potential error modes.
 
     - role: Signal Processing Research Engineer
       time: 2018 - 2020
@@ -152,6 +158,11 @@ publications:
     intro: |
 
     papers:
+      - title: "Local Transfer Function Measurement Data Analysis"
+        link: "https://edms.cern.ch/document/2675917/1"
+        authors: R. Saederup
+        conference: "CERN (European Center of Nuclear Research), 2021"
+    
       - title: "Comparison of Cardiotocography and Fetal Heart Rate Estimators Based on Noninvasive Fetal ECG"
         link: "http://www.cinc.org/archives/2019/pdf/CinC2019-249.pdf"
         authors: R. Saederup, H. Zimmermann, D. H. Eiríksdóttir, J. Hansen, J. Struijk and S. Schmidt
@@ -176,9 +187,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
       - name: Matlab
         level: 95%
-
+    
+      - name: Python
+        level: 90%
+        
       - name: C
         level: 95%
 
@@ -188,14 +203,14 @@ skills:
       - name: Git
         level: 85%
 
-      - name: Python
-        level: 80%
-
       - name: C# (Visual Studio)
         level: 75%
 
       - name: Adobe Photoshop, Illustrator
         level: 70%
+        
+      - name: VHDL & Verilog
+        level: 60%
 
 
 footer: >
