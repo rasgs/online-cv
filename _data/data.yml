@@ -93,7 +93,9 @@ experiences:
       company: CERN, Geneva
       details: |
         Engineering fellow in the TE-MPE-EE section (machine protection and electrical integrity group, electrical engineering section) where I worked on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
+       
         I performed data analysis of frequency response measurements of the main dipole magnets of the LHC, and discovered a method for identifying potential outliers caused by e.g. interturn shorts. This aids in the hardware commissioning, thus reducing down-time of the LHC.
+        
         In addition, I developed a Python algorithm for doing parameter estimation of superconducting magnets using PSpice circuit models. The algorithm fetches measurements from the ELQA database and iteratively fits circuit parameters by running Pspice. 
         This aids in doing model verification of LHC superconducting magnet models, thus giving a greater understanding of potential error modes.
 
