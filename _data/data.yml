@@ -49,7 +49,7 @@ sidebar:
       - item: Travel
         link:
         
-      - item: Running, climbing & calisthenics
+      - item: Running, fitness and other sports
         link:
 
       - item: Photography & graphics design
@@ -67,6 +67,8 @@ career-profile:
 
       I have a passion for problem-solving, so I love using my palette of skills to think outside the box and come up with alternative ways to improve the way things work or are done.
 education:
+  title: Education
+    info:
     - degree: MSc in Engineering, Signal Processing and Computing (SPC)
       university: Aalborg University, Denmark
       time: 2016 - 2018
@@ -90,6 +92,17 @@ education:
           - Weighted Average Mark: 11.2
 
 experiences:
+    title: Experience
+    info:
+    - role: Data Scientist
+      time: 2022 - 
+      company: Ventriject, Copenhagen
+      details: |
+
+        Maintaining, testing and deploying Matlab algorithm for production
+
+        Improving algorithm accuracy by discovering new features of seismocardiographic signal (SCG) using machine learning methods
+
     - role: Engineering Fellow
       time: 2020 - 2021
       company: CERN, Geneva
@@ -193,26 +206,29 @@ skills:
     toolset:
     
       - name: Matlab
-        level: 95%
+        level: 85%
     
       - name: Python
         level: 90%
         
       - name: C
-        level: 95%
+        level: 85%
 
       - name: Latex & Markdown
         level: 90%
 
       - name: Git
-        level: 85%
+        level: 75%
 
       - name: C# (Visual Studio)
         level: 75%
 
       - name: Adobe Photoshop, Illustrator
         level: 70%
-        
+
+      - name: Agile methods
+        level: 70%
+
       - name: VHDL & Verilog
         level: 60%
 
