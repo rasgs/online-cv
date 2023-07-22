@@ -12,7 +12,7 @@ chrome_mobile_color: "#2E93A4" #use hex colors (ex:#1976d2) or leave empty if yo
 # Tracker
 analytics:
     google:
-        tracking_id: UA-156018377-2
+        tracking_id: G-FWZ2DSW0NE
         anonymize_ip: true
 
 
