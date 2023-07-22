@@ -24,8 +24,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    pdf:
+    
     languages:
       - idiom: Danish
         level: Mothertongue
@@ -99,9 +99,9 @@ experiences:
         company: Ventriject, Copenhagen
         details: |
 
-          Maintaining, testing and deploying Matlab algorithm for production
+          Maintaining, testing and deploying Matlab algorithm for production use.
 
-          Improving algorithm accuracy by discovering new features of seismocardiographic signal (SCG) using machine learning methods
+          Improving algorithm accuracy by discovering new features of seismocardiographic signal (SCG) using machine learning methods.
 
       - role: Engineering Fellow
         time: 2020 - 2021
@@ -149,9 +149,6 @@ projects:
     title: Projects
     intro:
     assignments:
-      - title: The DSP Cookbook
-        link: "http://dspcookbook.github.io/"
-        tagline: "A website with tutorials and how-to guides on digital signal processing algorithms for engineers."
 
       - title: Software Defined Radio for a Cubesat
         link: "https://github.com/aausat"
@@ -204,12 +201,12 @@ skills:
 
     toolset:
     
-      - name: Matlab
-        level: 85%
-    
       - name: Python
         level: 90%
         
+      - name: Matlab
+        level: 85%
+
       - name: C
         level: 85%
 
@@ -222,10 +219,7 @@ skills:
       - name: C# (Visual Studio)
         level: 75%
 
-      - name: Adobe Photoshop, Illustrator
-        level: 70%
-
-      - name: Agile methods
+      - name: Photoshop & Illustrator
         level: 70%
 
       - name: VHDL & Verilog
