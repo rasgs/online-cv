@@ -68,7 +68,7 @@ career-profile:
       I have a passion for problem-solving, so I love using my palette of skills to think outside the box and come up with alternative ways to improve the way things work or are done.
 education:
   title: Education
-    info:
+  info:
     - degree: MSc in Engineering, Signal Processing and Computing (SPC)
       university: Aalborg University, Denmark
       time: 2016 - 2018
@@ -94,61 +94,60 @@ education:
 experiences:
     title: Experience
     info:
-    - role: Data Scientist
-      time: 2022 - 
-      company: Ventriject, Copenhagen
-      details: |
+      - role: Data Scientist
+        time: 2022 - 
+        company: Ventriject, Copenhagen
+        details: |
 
-        Maintaining, testing and deploying Matlab algorithm for production
+          Maintaining, testing and deploying Matlab algorithm for production
 
-        Improving algorithm accuracy by discovering new features of seismocardiographic signal (SCG) using machine learning methods
+          Improving algorithm accuracy by discovering new features of seismocardiographic signal (SCG) using machine learning methods
 
-    - role: Engineering Fellow
-      time: 2020 - 2021
-      company: CERN, Geneva
-      details: |
-        Engineering fellow in the TE-MPE-EE section (machine protection and electrical integrity group, electrical engineering section) where I worked on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
-       
-        I performed data analysis of frequency response measurements of the main dipole magnets of the LHC, and discovered a method for identifying potential outliers caused by e.g. interturn shorts. This aids in the hardware commissioning, thus reducing down-time of the LHC.
+      - role: Engineering Fellow
+        time: 2020 - 2021
+        company: CERN, Geneva
+        details: |
+          Engineering fellow in the TE-MPE-EE section (machine protection and electrical integrity group, electrical engineering section) where I worked on electrical quality assurance (ELQA) of the Large Hadron Collider (LHC) and in particular the High-Luminosity LHC upgrade.
         
-        In addition, I developed a Python algorithm for doing parameter estimation of superconducting magnets using PSpice circuit models. The algorithm fetches measurements from the ELQA database and iteratively fits circuit parameters by running Pspice. 
-        This aids in doing model verification of LHC superconducting magnet models, thus giving a greater understanding of potential error modes.
+          I performed data analysis of frequency response measurements of the main dipole magnets of the LHC, and discovered a method for identifying potential outliers caused by e.g. interturn shorts. This aids in the hardware commissioning, thus reducing down-time of the LHC.
+          
+          In addition, I developed a Python algorithm for doing parameter estimation of superconducting magnets using PSpice circuit models. The algorithm fetches measurements from the ELQA database and iteratively fits circuit parameters by running Pspice. 
+          This aids in doing model verification of LHC superconducting magnet models, thus giving a greater understanding of potential error modes.
 
-    - role: Signal Processing Research Engineer
-      time: 2018 - 2020
-      company: Viewcare A/S, Søborg
-      details: |
-        Research and development of algorithms for biomedical applications using both digital and statistical signal processing methods as well as machine learning.
+      - role: Signal Processing Research Engineer
+        time: 2018 - 2020
+        company: Viewcare A/S, Søborg
+        details: |
+          Research and development of algorithms for biomedical applications using both digital and statistical signal processing methods as well as machine learning.
 
-        Lead embedded device firmware developer: Developing overall software architecture and implementing operating system, periphial drivers, data transmissions, OTA updates and more.
+          Lead embedded device firmware developer: Developing overall software architecture and implementing operating system, periphial drivers, data transmissions, OTA updates and more.
 
-        Lead developer of end-user PC acquisition software made using C# (WPF) for handling wireless data streaming.
+          Lead developer of end-user PC acquisition software made using C# (WPF) for handling wireless data streaming.
 
-    - role: Core Member of AAU Student Space (Volunteer)
-      time: 2013 - Present
-      company: AAU Student Space, Aalborg
-      details: |
-        Gained experience with space engineering, cubesat manufacturing and outreach by building, testing, integrating, documenting and operating the AAUSAT4 and AAUSAT5 satellites, in close collaboration with the European Space Agency (ESA). Currently developing a high-speed software defined radio (SDR).
-    - role: Software Developer
-      time: 2015 - 2018
-      company: Viewcare A/S, Søborg
-      details: |
-        Implementing over-the-air update features, TCP communication and data acquisition of audio- and ECG signals on embedded ARM MCU.
-        Developing C# interface for wireless data transmission.
-    - role: Student Ambassador
-      time: 2015 - 2018
-      company: Aalborg University, Aalborg
-      details: |
-        Outreach and promotion regarding the opportunities of studying electronics at Aalborg university (AAU), including interviews for Danish media, workshops at Danish high schools and lab-tours at AAU.
-    - role: Library Page
-      time: 2009 - 2014
-      company: Aalborg Bibliotekerne, Vodskov
-      details: |
-        Responsible for shelving and organizing books and other materials and finding reserved materials.
+      - role: Core Member of AAU Student Space (Volunteer)
+        time: 2013 - Present
+        company: AAU Student Space, Aalborg
+        details: |
+          Gained experience with space engineering, cubesat manufacturing and outreach by building, testing, integrating, documenting and operating the AAUSAT4 and AAUSAT5 satellites, in close collaboration with the European Space Agency (ESA). Currently developing a high-speed software defined radio (SDR).
+      - role: Software Developer
+        time: 2015 - 2018
+        company: Viewcare A/S, Søborg
+        details: |
+          Implementing over-the-air update features, TCP communication and data acquisition of audio- and ECG signals on embedded ARM MCU.
+          Developing C# interface for wireless data transmission.
+      - role: Student Ambassador
+        time: 2015 - 2018
+        company: Aalborg University, Aalborg
+        details: |
+          Outreach and promotion regarding the opportunities of studying electronics at Aalborg university (AAU), including interviews for Danish media, workshops at Danish high schools and lab-tours at AAU.
+      - role: Library Page
+        time: 2009 - 2014
+        company: Aalborg Bibliotekerne, Vodskov
+        details: |
+          Responsible for shelving and organizing books and other materials and finding reserved materials.
 projects:
     title: Projects
-    intro: >
-
+    intro:
     assignments:
       - title: The DSP Cookbook
         link: "http://dspcookbook.github.io/"
@@ -172,7 +171,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro:
 
     papers:
       - title: "Local Transfer Function Measurement Data Analysis"
